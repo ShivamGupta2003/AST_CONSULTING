@@ -29,8 +29,8 @@ Edit the app at `app/page.tsx`; the page auto-updates as you edit.
 ## Deploy
 
 Deploy on Vercel:
-Website Live Url :- https://ast-consulting-two.vercel.app/
-Github Url :- https://github.com/ShivamGupta2003/AST_CONSULTING
+- Website Live Url :- https://ast-consulting-two.vercel.app/
+- Github Url :- https://github.com/ShivamGupta2003/AST_CONSULTING
 
 ## Author
 
